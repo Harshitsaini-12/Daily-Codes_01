@@ -31,3 +31,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0131-palindrome-partitioning) |
+# Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0060-permutation-sequence) |
+# Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0060-permutation-sequence) |
