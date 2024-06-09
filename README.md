@@ -31,13 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0198-house-robber) |
 # Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0062-unique-paths) |
 # Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0060-permutation-sequence) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0062-unique-paths) |
