@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0131-palindrome-partitioning) |
+| [1250-longest-common-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1250-longest-common-subsequence) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1559-cherry-pickup-ii) |
 # Math
 |  |
