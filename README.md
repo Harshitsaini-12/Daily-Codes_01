@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0131-palindrome-partitioning) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0060-permutation-sequence) |
 # Combinatorics
 |  |
@@ -68,3 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0064-minimum-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1559-cherry-pickup-ii) |
+# Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0044-wildcard-matching) |
