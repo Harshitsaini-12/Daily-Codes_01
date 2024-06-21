@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1559-cherry-pickup-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1170-shortest-common-supersequence) |
@@ -111,3 +113,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0673-number-of-longest-increasing-subsequence) |
+# Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0673-number-of-longest-increasing-subsequence) |
