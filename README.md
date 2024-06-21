@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1559-cherry-pickup-ii) |
 # Backtracking
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0131-palindrome-partitioning) |
+| [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1250-longest-common-subsequence) |
 # Dynamic Programming
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1559-cherry-pickup-ii) |
@@ -100,3 +103,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0368-largest-divisible-subset) |
+# Hash Table
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
+# Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1129-longest-string-chain) |
