@@ -23,7 +23,7 @@ class Solution {
             }
 
             if(maxLen==dp[i])maxCount+=count[i];
-            else if(maxLen<dp[i]){
+            else if(maxLen<=dp[i]){
                 maxLen=dp[i];
                 maxCount=count[i];
             }
