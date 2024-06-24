@@ -3,7 +3,6 @@ public:
     int f(int idx,vector<int>&arr,int k,int n,vector<int>&dp){
         if(idx==n)return 0;
 
-
         int maxAns=INT_MIN;
         int len=0;
         int maxElem=0;
