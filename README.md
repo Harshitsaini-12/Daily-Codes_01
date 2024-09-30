@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
