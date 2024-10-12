@@ -179,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1008-binary-tree-cameras](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1008-binary-tree-cameras) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
