@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
+| [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
