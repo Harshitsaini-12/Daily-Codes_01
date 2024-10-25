@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1008-binary-tree-cameras](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1008-binary-tree-cameras) |
 ## Array
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
