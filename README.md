@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0033-search-in-rotated-sorted-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
