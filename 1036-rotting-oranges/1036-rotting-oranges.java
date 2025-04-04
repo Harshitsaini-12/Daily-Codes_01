@@ -50,12 +50,7 @@ class Solution {
                         grid[rdash][cdash]=0;
                         fresh--;
                     }
-
                 }
-
-               
-
-
             }
         }
 
