@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -265,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
