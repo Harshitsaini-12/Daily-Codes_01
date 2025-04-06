@@ -16,15 +16,18 @@ class Solution {
     }
 
     public void dfs(char[][]grid,int r,int c,int [][]dir){
-        grid[r][c]='1';
+        grid[r][c]='0';
 
         for(int i=0;i<dir.length;i++){
-            int rr=r + dir[r][0];
-            int cc=c + dir[r][1];
+            int rr=r + dir[i][0];
+            int cc=c + dir[i][1];
 
-            if(rr>=0 && cc>grid[0].length && rr<grid.length && cc>=0 && grid[rr][cc]=='1'){
+            if(rr>=0 && cc<grid[0].length && rr<grid.length && cc>=0 && grid[rr][cc]=='1'){
                 dfs(grid,rr,cc,dir);
             }
         }
     }
 }
+
+
+   
