@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
