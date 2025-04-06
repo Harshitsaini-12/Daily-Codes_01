@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [1008-binary-tree-cameras](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -209,17 +210,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
