@@ -314,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
