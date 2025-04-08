@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 ## Union Find
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
+| [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1894-merge-strings-alternately) |
 ## Linked List
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
