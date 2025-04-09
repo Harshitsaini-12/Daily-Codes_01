@@ -1,7 +1,7 @@
 class LRUCache {
-   // data memebers
-    private class ListNode{
-        Integer key; // app ka naam h key
+     //data members
+    public class ListNode{
+        Integer key; // this is our app name kinda
         Integer value;
         ListNode next;
         ListNode prev;
@@ -11,34 +11,43 @@ class LRUCache {
             this.value=value;
         }
     }
-    
+
     private HashMap<Integer,ListNode>hm;
     private ListNode head;
     private ListNode tail;
     private int size;
     private int capacity;
-    
-    private void intialise(int capacity){
+
+    private void intiliase(int capacity){
         hm=new HashMap<>();
         this.size=0;
         this.capacity=capacity;
-        this.tail=this.head=null;
+        this.head=this.tail=null;
     }
 
     public LRUCache(int capacity) {
-        intialise(capacity);
+        intiliase(capacity);
     }
     
     public int get(int key) {
         if(!hm.containsKey(key)){
             return -1;
         }
-        
+
         ListNode node=hm.get(key);
         addRecent(node);
         return node.value;
     }
-    
+
+     public void addRecent(ListNode node){
+        if(node==this.tail){
+            return;
+        }
+        
+        remove(node);
+        addLast(node);
+    }
+
     private void addLast(ListNode node){
         if(this.head==null)this.head=this.tail=node;
         else{
@@ -48,7 +57,7 @@ class LRUCache {
         }
         this.size++;
     }
-    
+
     private ListNode removeFirst(){
         ListNode node=this.head;
         
@@ -74,8 +83,8 @@ class LRUCache {
         this.size--;
         return node;
     }
-    
-    private ListNode remove(ListNode node){
+
+     private ListNode remove(ListNode node){
         
         if(this.head==node){
             return removeFirst();
@@ -93,28 +102,20 @@ class LRUCache {
         }
     }
     
-    public void addRecent(ListNode node){
-        if(node==this.tail){
-            return;
-        }
-        
-        remove(node);
-        addLast(node);
-    }
-    
     public void put(int key, int value) {
         if(hm.containsKey(key)){
             ListNode node=hm.get(key);
             node.value=value;
             addRecent(node);
         }else{
+
             ListNode newnode=new ListNode(key,value);
-            
+
             if(this.size==this.capacity){
                 ListNode rm=removeFirst();
                 hm.remove(rm.key);
             }
-            
+
             addLast(newnode);
             hm.put(key,newnode);
         }
