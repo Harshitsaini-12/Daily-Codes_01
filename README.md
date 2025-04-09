@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
@@ -363,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
