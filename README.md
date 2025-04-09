@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 ## Memoization
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
+| [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1894-merge-strings-alternately) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
 | ------- |
