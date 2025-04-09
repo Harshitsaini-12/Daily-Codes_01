@@ -371,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
