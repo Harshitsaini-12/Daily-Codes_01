@@ -43,15 +43,15 @@ class Solution {
     }
     
     public List<String>convert(char[][]grid,int n){
-        List<String>list=new ArrayList<>();
-        
+        List<String>temp=new ArrayList<>();
+
         for(int j=0;j<n;j++){
-              String temp="";
+            String temp1="";
             for(int i=0;i<n;i++){
-                temp+=grid[i][j];
+                temp1+=grid[i][j];
             }
-            list.add(temp);
+            temp.add(temp1);
         }
-        return list;
+        return temp;
     }
 }
