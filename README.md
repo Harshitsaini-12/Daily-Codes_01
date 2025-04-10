@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
