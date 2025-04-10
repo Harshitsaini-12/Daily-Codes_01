@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
