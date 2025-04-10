@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
