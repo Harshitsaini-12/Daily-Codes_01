@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0145-binary-tree-postorder-traversal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1036-rotting-oranges) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
 | [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
 ## Database
 |  |
