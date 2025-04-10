@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0907-koko-eating-bananas) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
 |  |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
