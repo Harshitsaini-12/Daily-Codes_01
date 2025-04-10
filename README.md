@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
@@ -414,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
