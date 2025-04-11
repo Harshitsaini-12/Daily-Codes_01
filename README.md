@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
