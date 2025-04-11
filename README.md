@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0907-koko-eating-bananas) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
