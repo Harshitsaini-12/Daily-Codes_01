@@ -11,7 +11,7 @@ public:
                 count--;
             }
 
-            if(count==1){
+            if(count==0){
                 count=1;
                 val=nums[i];
             }
