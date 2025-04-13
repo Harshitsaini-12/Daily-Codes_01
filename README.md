@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0198-house-robber) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0162-find-peak-element) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
@@ -476,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
