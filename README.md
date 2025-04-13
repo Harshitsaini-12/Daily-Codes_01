@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0064-minimum-path-sum) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0079-word-search) |
