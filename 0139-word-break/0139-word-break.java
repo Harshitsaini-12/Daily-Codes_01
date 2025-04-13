@@ -12,7 +12,8 @@ class Solution {
         boolean[]dp=new boolean[n+1];
         dp[0]=true;
 
-        for(int i=1;i<n;i++){
+        for(int i=0;i<=n;i++){
+            if(!dp[i])continue;
 
             for(int l=1;l<=len && i+l<=n;l++){
                 String ss=s.substring(i,i+l);
