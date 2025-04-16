@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/1894-merge-strings-alternately) |
