@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0542-01-matrix) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0907-koko-eating-bananas) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Harshitsaini-12/Daily-Codes_01/tree/master/2478-longest-nice-subarray) |
